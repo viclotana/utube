@@ -1,6 +1,6 @@
 # utube
 
-> a youtube clone
+> a youtube kinda app
 
 ## Build Setup
 
