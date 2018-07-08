@@ -1,6 +1,6 @@
 <template>
   <div class="video-player">
-    Welcome to VueTube
+    Utube
   </div>
 </template>
 
